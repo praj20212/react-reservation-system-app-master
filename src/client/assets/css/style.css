@@ -1,0 +1,15 @@
+.menu-button{
+  margin-right: 10px !important;
+  margin-left: 10px !important;
+}
+
+.cont-body {
+  width:100%;
+  padding: 10px;
+}
+
+.form-cont-cust{
+  width: 50%;
+  margin: auto;
+  min-width: 250px;
+}
