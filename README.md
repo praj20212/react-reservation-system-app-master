@@ -9,7 +9,7 @@ Assignment on Node.js, React.js and Redux
  * `build` contains sources launched in the web browser version of Reservation System APP.
 
 ## Installation
-1. `git clone https://github.com/hari1008/reservation_system.git
+1. `git clone https://github.com/praj20212/react-reservation-system-app-master.git 
 2. Navigate to directory in command-prompt/terminal
 3. Execute the command to install:  npm install
 4. Run the project using the command: npm start
